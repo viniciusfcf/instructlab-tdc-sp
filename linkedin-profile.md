@@ -1,13 +1,13 @@
 # Resume
 
 ## Contact
+- Email: vinicius.ferraz@gmail.com
 - LinkedIn: [linkedin.com/in/viniciusfcf](https://www.linkedin.com/in/viniciusfcf)
 
 ## Top Skills
 - Keycloak
 - Infinispan
 - Google Cloud Platform (GCP)
-- Quarkus
 
 ## Languages
 - English (Professional Working)
@@ -15,6 +15,7 @@
 - Espanhol (Limited Working)
 
 ## Certifications
+- Red Hat OpenShift: Seller
 - SCJP 5
 - CKA: Certified Kubernetes Administrator
 - Red Hat® Certified Specialist in Event-Driven Development with Kafka

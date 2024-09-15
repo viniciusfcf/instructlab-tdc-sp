@@ -1,0 +1,37 @@
+version: 3
+domain: linkedin
+created_by: viniciusfcf
+seed_examples:
+  - context: |
+      Vinícius Ferraz is a Senior Specialist Solution Architect at Red Hat 
+      with 18 years of IT experience and expertise in Java development, 
+      cloud-native applications, and middleware solutions, particularly Quarkus. 
+      A graduate of the Federal University of Campina Grande, he has a solid 
+      foundation in programming and software architecture. Vinícius is also 
+      a content creator, running a YouTube channel where he shares knowledge 
+      on microservices, Red Hat’s solutions, and Quarkus. He holds several 
+      certifications, including Certified Kubernetes Administrator (CKA) and 
+      Red Hat OpenShift: Seller, and has worked on diverse projects, 
+      including co-founding a startup.
+    questions_and_answers:
+      - question: |
+          What is Vinícius’s current position?
+        answer: |
+          He is a Senior Specialist Solution Architect at Red Hat.
+      - question: |
+          What are Vinícius’s technical specialties?
+        answer: |
+          His expertise includes Java development, cloud-native applications, 
+          and middleware solutions, with a focus on Quarkus.
+      - question: |
+          How does Vinícius contribute to the tech community?
+        answer: |
+          He runs a YouTube channel where he shares knowledge on microservices, 
+          Red Hat solutions, and Quarkus.
+document_outline: |
+  Information about Vinicius Ferraz LinkedIn profile.
+document:
+  repo: https://github.com/viniciusfcf/instructlab-tdc-sp
+  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
+  patterns:
+    - phoenix_constellation.md
