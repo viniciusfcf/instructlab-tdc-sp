@@ -33,4 +33,4 @@ Initialization completed successfully, you're ready to start using `ilab`. Enjoy
 ```
 
 - `ilab model download`
-- `mkdir taxonomy/knowledge/vinicius && cp ../knowledge/linkedin-profile.md taxonomy/knowledge/vinicius`
+- `mkdir taxonomy/knowledge/vinicius && cp ../qna.yaml taxonomy/knowledge/vinicius/qna.yaml`

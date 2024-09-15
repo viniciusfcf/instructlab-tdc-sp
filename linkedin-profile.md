@@ -22,14 +22,14 @@
 
 ---
 
-# Vinícius Ferraz
+# Vinicius Ferraz
 **Senior Specialist Solution Architect at Red Hat**  
 Federal District, Brazil
 
 ---
 
 ## Summary
-I am Vinicius, a 38-year-old Java Developer with a strong software background and 18 years of IT experience. I graduated from the Federal University of Campina Grande (UFCG, Brazil).
+I am Vinicius Ferraz, a 38-year-old Java Developer with a strong software background and 18 years of IT experience. I graduated from the Federal University of Campina Grande (UFCG, Brazil).
 
 I have solid foundations in programming, architecture, and software design. I started programming in 2004. I am a very flexible, self-taught, and responsible person with a good balance of hard and soft skills.
 
